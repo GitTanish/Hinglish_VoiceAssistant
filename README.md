@@ -1,5 +1,5 @@
 # Hinglish Voice-AI Fine-Tuning
-
+Note: This project is a mock simulation of OpenAI fine-tuning. Scripts are production-ready with minor adjustments.
 ## 📖 Background
 This project fine-tunes an OpenAI model to handle Hinglish (Hindi + English) conversational inputs.
 
@@ -52,3 +52,5 @@ Assistant: Mausam aaj kaafi pleasant hai, halka sa thanda.
 
 User: Kal Sunday hai na?
 Assistant: Haan, kal Sunday hai. Kya plans hain?
+
+Note: This project is a mock simulation of OpenAI fine-tuning. Scripts are production-ready with minor adjustments.
